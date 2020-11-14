@@ -1,1 +1,2 @@
-# Swap COPcat idk.js 
+# Swap COP
+the funny bot
